@@ -1,1 +1,4 @@
 # cpim
+## I grew up in a very small neighborhood in the Santa Cruz Mountains named Chemeketa Park. When I was in late elementary school AIM got big. I remember seeing my friends all day at school, and then rushing home to hop online and chat with them. Being in a relatively isolated environment, this rocked my world. I couldnt beleive that we could make cool usernames, and hop into a chat room and send messages to each other. As I grew older and moved on to Middle School, I participated in club sports. It was very common for my teammates to be from other schools, so we only saw each other at practices and games. Eventually we discovered that we all had AIM, and we added each other. I was able to now chat with my teammates and friends from different schools and geographic areas. 
+
+## The purpose of this project is to recreate AIM, as the application was such an influencial part of my childhood. 
